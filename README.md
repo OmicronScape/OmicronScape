@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on  game development and networking and storytelling.. I’m eager to collaborate on projects related to game programming, network-based applications, and narrative design in games. 
 - 📫 How to reach m... email ==  n.kosmas89@gmail.com or contact me on linkdin 
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...I’m a huge fan of games and hope to program one of my own someday!  I’m  also passionate about storytelling in games as I am about the code behind them.and i find networking so intersting that i am willingful to try my luck there!
+- ⚡ Fun fact: ...I’m a huge fan of games and hope to program one of my own someday!  I’m  also passionate about storytelling in games as I am about the code behind them.
 -                
 
 <!---
