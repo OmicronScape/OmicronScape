@@ -5,7 +5,7 @@
 - 📫 How to reach m... email ==  n.kosmas89@gmail.com or contact me on linkdin 
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...I’m a huge fan of games and hope to program one of my own someday!  I’m  also passionate about storytelling in games as I am about the code behind them.
--                
+-  🎯 Actively looking for a Junior Network Engineer position – I’m eager to contribute, grow, and prove my worth in networking or development roles.              
 
 <!---
 OmicronScape/OmicronScape is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
